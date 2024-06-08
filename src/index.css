@@ -4,10 +4,17 @@
   box-sizing: border-box;
 }
 .app{
-  width: 100vw;
+  /* width: 100vw;
   min-height: 100vh;
   margin: auto;
   border: solid 2px #000;
+  background-image: url(../wea.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; */
+  min-height: 100vh;
+  display: grid;
+  /* background: #e2d4ff; */
   background-image: url(../wea.jpg);
   background-size: cover;
   background-position: center;
